@@ -1,6 +1,6 @@
 import pandas as pd
 from analyticskit import *
-import datetime as dt
+from datetime import datetime as dt
 import openpyxl
 
 
